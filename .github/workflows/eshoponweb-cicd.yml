@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-region1
   LOCATION: westindia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: a750be96-af3c-4fe8-87ef-b87d2b5e129feshoponweb-webapp-NAMEeshoponweb-webapp-NAMEc
+  SUBSCRIPTION-ID: a750be96-af3c-4fe8-87ef-b87d2b5e129f
   WEBAPP-NAME: devops-webapp-westindia-63185980
 
 jobs:
